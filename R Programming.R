@@ -31,3 +31,6 @@ data.matrix()
 names() # for data.frame column names
 dimnames()
 
+library(readr)
+read_table()
+read_csv()
